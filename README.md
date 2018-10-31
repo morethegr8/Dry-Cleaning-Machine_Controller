@@ -1,2 +1,2 @@
-# Dry_Cleaning_Controller-
+# Dry Cleaning Controller
 Custom Firmware &amp; Hardware for Dry Cleaning Machine [Fibrimatics, Italy]
